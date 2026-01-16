@@ -1,0 +1,14 @@
+# Executables
+pocketbase.exe
+# pocketbase
+
+# Database and user uploads (local data)
+# pb_data/
+
+# Local environment variables
+.env
+*.env
+
+# System files
+# .DS_Store
+# Thumbs.db
